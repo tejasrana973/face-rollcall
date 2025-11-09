@@ -1,2 +1,3 @@
-# face-rollcall
-Recognize faces from photos and log attendance to Excel.
+# Face recognition & attendance logging
+
+
